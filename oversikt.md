@@ -50,20 +50,15 @@ Grensesnitt (Data Agents/Streamlit), dokumentsøk, ...
 # Governance
 
 ## Hvem kan se hvilke data?
+RBAC, tagging, sikkerhet på rad/kollonne-nivå
 
 ## Hvordan ivareta compliance med GDPR/MiDID II/MAR/DORA?
-
-## RBAC
-
-## Column-level Security/Row-level Security
-
-## Tagging
 
 # Datakvalitet
 
 ## Datakvalitet før transformasjonslaget??
 
-## DBT
+## Hvorfor ønsker man DBT?
 ### Metadata
 ### Testing
 ### Versjonskontroll og CI/CD
@@ -79,7 +74,7 @@ Dataintegrasjon, ETL og DWH
 # Hvordan migrere til Snowflake i praksis?
 Migrasjonsstrategi? Hvilke data skal flyttes og med hvilken strategi? 
 
-## Iceberg v.s. Native tabellformat
+## Iceberg v.s. Snowflakes tabellformat
 
 ## Valg av underliggende skyleverandør
 
@@ -87,8 +82,9 @@ Migrasjonsstrategi? Hvilke data skal flyttes og med hvilken strategi?
 
 # Hvordan integrere kilder mot snowflake
 
+## Fra ETL til ELT
+
 ## Schema evoulution? 
 
 ## Andre Betraktninger?
 
-# Fra ETL til ELT
