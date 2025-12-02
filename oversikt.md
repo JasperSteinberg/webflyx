@@ -30,7 +30,7 @@ Introduserer Snowflake som platform og blir utgangspunktet for mer spesialisert 
 ## Hvordan kan man redusere manuell databehandling?
 
 ## Hvordan sikre konsistent rapportering?
-Felles sannhetskilde
+Felles sannhetskilde, definisjoner/glossory 
 
 ## Datadeling
 Hva skal deles? Med hvem skal det deles? 
@@ -38,10 +38,12 @@ Hva skal deles? Med hvem skal det deles?
 ## Brukergrensesnitt for manuell beriking av data?
 
 # LLMs
+Risiko ved bruk av LLMer?
 
 ## Hva er behovene?
 
 ## Hvilke muligheter og verktøy finnes? 
+Grensesnitt (Data Agents/Streamlit), dokumentsøk, ...
 
 ## Demo
 
