@@ -5,7 +5,6 @@ Torsdag:
 De presenterer seg og hvor de kommer fra. Vi presenterer oss, selskapet og erfaringsgrunnlag. Vi jobber på tvers av skyleverandører og dataplatformer. 
 CFO presenterer foretningsbehov
 
-Stian Holtet (Co-Head ITOps) ikke tilgengelig før kl. 15 torsdag 
 
 #### Problem: Stian (Co-Head ITOps) er kun tilgengelig fra rund kl. 15 torsdag. Han er en av to som ønsker grunnleggende kompetanse som "overordnet skyforståelse" som det er naturlig å begynne med. 
 
@@ -28,16 +27,48 @@ Introduserer Snowflake som platform og blir utgangspunktet for mer spesialisert 
 
 ## Hva er inneffektiv i dag?
 
-## Hvordan sikre konsistent rapportering?
+## Hvordan kan man redusere manuell databehandling?
 
-# Datadeling
+## Hvordan sikre konsistent rapportering?
+Felles sannhetskilde
+
+## Datadeling
 Hva skal deles? Med hvem skal det deles? 
+
+## Brukergrensesnitt for manuell beriking av data?
+
+# LLMs
+
+## Hva er behovene?
+
+## Hvilke muligheter og verktøy finnes? 
+
+## Demo
 
 # Governance
 
+## Hvem kan se hvilke data?
+
+## Hvordan ivareta compliance med GDPR/MiDID II/MAR/DORA?
+
+## RBAC
+
+## Column-level Security/Row-level Security
+
+## Tagging
+
 # Datakvalitet
 
-# LLMs
+## Datakvalitet før transformasjonslaget??
+
+## DBT
+### Metadata
+### Testing
+### Versjonskontroll og CI/CD
+### Lineage
+
+## Hvordan tilrettelegge for LLMer
+
 
 
 Fredag:
