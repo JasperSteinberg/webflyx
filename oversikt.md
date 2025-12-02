@@ -1,4 +1,4 @@
-Torsdag:
+#### Torsdag:
 
 # Introduksjon
 
@@ -68,8 +68,8 @@ RBAC, tagging, sikkerhet på rad/kollonne-nivå
 
 
 
-Fredag:
-Dataintegrasjon, ETL og DWH
+####Fredag:
+#### Mulig vi heller kan ta mer as-is dataintegrasjonene, ETL og DWH spesifikt på fredagssesjonen?
 
 # Hvordan migrere til Snowflake i praksis?
 Migrasjonsstrategi? Hvilke data skal flyttes og med hvilken strategi? 
