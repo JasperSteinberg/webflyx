@@ -7,6 +7,8 @@ CFO presenterer foretningsbehov
 
 Stian Holtet (Co-Head ITOps) ikke tilgengelig før kl. 15 torsdag 
 
+#### Problem: Stian (Co-Head ITOps) er kun tilgengelig fra rund kl. 15 torsdag. Han er en av to som ønsker grunnleggende kompetanse som "overordnet skyforståelse" som det er naturlig å begynne med. 
+
 MTP at CFO presenterer foretningsbehov
 # Ny platform
 SQL server skal erstattes. Hvorfor?
@@ -15,16 +17,25 @@ SQL server skal erstattes. Hvorfor?
 Felles for hvem? Hva skal være adskilt? 
 
 ## Hvorfor vil vi ha en skybasert platform?
-Fordeler og ulemper opp mot eksisterende løsning. 
+Fordeler og ulemper opp mot eksisterende løsning.
 
 ## Hvorfor er Snowflake en god kandidat?
-Overordnet om Snowflakes akitetkur / moderne dataplatform arkitektur. Mapping av deres behov til løsninger i snowflake. Introduserer Snowflake som platform og blir utgangspunktet for mer spesialisert temaer senere. 
+Overordnet om Snowflakes akitetkur / moderne dataplatform arkitektur.  
+Mapping av deres behov til løsninger i snowflake. 
+Introduserer Snowflake som platform og blir utgangspunktet for mer spesialisert temaer senere. 
 
-# Effektiv rapportering
+# Hvordan effektivisere rapportering?
+
+## Hva er inneffektiv i dag?
+
+## Hvordan sikre konsistent rapportering?
 
 # Datadeling
+Hva skal deles? Med hvem skal det deles? 
 
 # Governance
+
+# Datakvalitet
 
 # LLMs
 
@@ -32,6 +43,19 @@ Overordnet om Snowflakes akitetkur / moderne dataplatform arkitektur. Mapping av
 Fredag:
 Dataintegrasjon, ETL og DWH
 
-# Hvordan integrere kiler mot snowflake
+# Hvordan migrere til Snowflake i praksis?
+Migrasjonsstrategi? Hvilke data skal flyttes og med hvilken strategi? 
+
+## Iceberg v.s. Native tabellformat
+
+## Valg av underliggende skyleverandør
+
+## Valg av Snowflake edition
+
+# Hvordan integrere kilder mot snowflake
+
+## Schema evoulution? 
+
+## Andre Betraktninger?
 
 # Fra ETL til ELT
