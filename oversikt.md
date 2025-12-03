@@ -35,7 +35,7 @@ Felles sannhetskilde, definisjoner/glossory
 ## Datadeling
 Hva skal deles? Med hvem skal det deles? 
 
-## Brukergrensesnitt for manuell beriking av data?
+## Brukergrensesnitt for manuell beriking av data???????????
 
 # LLMs
 Risiko ved bruk av LLMer?
@@ -68,7 +68,7 @@ RBAC, tagging, sikkerhet på rad/kollonne-nivå
 
 
 
-####Fredag:
+#### Fredag:
 #### Mulig vi heller kan ta mer as-is dataintegrasjonene, ETL og DWH spesifikt på fredagssesjonen?
 
 # Hvordan migrere til Snowflake i praksis?
